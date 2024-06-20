@@ -1,0 +1,14 @@
+streamlit
+pandas
+lagchain-community
+huggingface_hub
+sentence_transforers
+faiss-cpu 
+unstructured 
+chromadb 
+python 
+tiktoken 
+pypdf
+tensorflow
+unstructured[local-inference] -q 
+# first activate venv ----commans : proj/Scripts/activate
