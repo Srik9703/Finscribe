@@ -16,7 +16,7 @@ from pathlib import Path
 
 
 if "HUGGINGFACEHUB_API_TOKEN" not in os.environ:
-  token = "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"
+  token = "YOUR_HF_TOKEN"
   os.environ["HUGGINGFACEHUB_API_TOKEN"] = token
 
 def text_loader(file_paths):
